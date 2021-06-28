@@ -5,7 +5,7 @@ const app=new Vue({
             
             {
             id:1,
-            name:'《算法导论》',
+            name:'《算导论》',
             data:'2006-9',
             price:85.00,
             count:1
